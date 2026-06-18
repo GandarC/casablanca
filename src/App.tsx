@@ -66,7 +66,7 @@ const TEAM_MEMBERS = [
     name: 'Sdark',
     role: 'Ac Team',
     seed: 37,
-    image: 'https://media.discordapp.net/attachments/1410648492770066452/1516987853807157431/c8e3ca3f307542d3ad64ab1fc7af66f8.jpg?ex=6a34a488&is=6a335308&hm=92dd34d493661d6dacc2797c6d3d02cb836e901ed6f107a5e604e4bf16155b64&=&format=webp',
+    image: 'https://media.discordapp.net/attachments/1438639263771005149/1474784555830480967/261e9fc7f5a296bc72e9e9e30da0ffbb.png?ex=6a355b26&is=6a3409a6&hm=445dfefb288106fdb6ab1aa187c4544035845722ffdee9d8e55a612db9d73a28&=&format=webp&quality=lossless',
   },
 ];
 
