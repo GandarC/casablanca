@@ -48,7 +48,7 @@ const TEAM_MEMBERS = [
     name: 'Tamashi',
     role: 'Ac Leader',
     seed: 7,
-    image: 'https://media.discordapp.net/attachments/1410648492770066452/1516984178158211102/sd.PNG?ex=6a34a11c&is=6a334f9c&hm=a9d21522feaf8a72d78ec48f90f4415792a5ec240b802457749d900942b9e0de&=&format=webp&quality=lossless',
+    image: 'https://media.discordapp.net/attachments/1410648492770066452/1516987715864756255/bbd633ef9d1bfebe2e60f03063918562.jpg?ex=6a34a467&is=6a3352e7&hm=4199c7ba7b8e09861875ec207d560b0e5b0db888903147f1881dcba00c6ce8be&=&format=webp',
   },
   {
     name: 'Kaiser',
@@ -66,7 +66,7 @@ const TEAM_MEMBERS = [
     name: 'Sdark',
     role: 'Ac Team',
     seed: 37,
-    image: 'https://media.discordapp.net/attachments/1410648492770066452/1516984178548150322/bbd633ef9d1bfebe2e60f03063918562.jpg?ex=6a34a11c&is=6a334f9c&hm=c7d529c5a8e7fcbbcb26e072842e1fcc6b5c9b5fd6b3f7103a74f5759cbfa7c3&=&format=webp',
+    image: 'https://media.discordapp.net/attachments/1410648492770066452/1516987853807157431/c8e3ca3f307542d3ad64ab1fc7af66f8.jpg?ex=6a34a488&is=6a335308&hm=92dd34d493661d6dacc2797c6d3d02cb836e901ed6f107a5e604e4bf16155b64&=&format=webp',
   },
 ];
 
